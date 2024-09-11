@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|c:\\users\\tuoan\\onedrive\\m\u00E1y t\u00EDnh\\ema\\employee management application\\employee management application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\employee management application.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\employee management application\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|c:\\users\\tuoan\\onedrive\\m\u00E1y t\u00EDnh\\ema\\employee management application\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\loginui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\employee management application\\ema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{239DD5EC-C4B2-4FB1-8F54-264E54D0E894}|Employee Management Application\\Employee Management Application.csproj|solutionrelative:employee management application\\ema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee Management Application",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\Employee Management Application\\Employee Management Application.csproj",
+              "RelativeDocumentMoniker": "Employee Management Application\\Employee Management Application.csproj",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\Employee Management Application\\Employee Management Application.csproj",
+              "RelativeToolTip": "Employee Management Application\\Employee Management Application.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T03:41:38.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginUI.cs",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\Employee Management Application\\LoginUI.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\LoginUI.cs",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\Employee Management Application\\LoginUI.cs",
+              "RelativeToolTip": "Employee Management Application\\LoginUI.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAcwGgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:01:10.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginUI.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\Employee Management Application\\LoginUI.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\LoginUI.cs",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\Employee Management Application\\LoginUI.cs [Design]",
+              "RelativeToolTip": "Employee Management Application\\LoginUI.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:00:56.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EMA.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\Employee Management Application\\EMA.cs",
+              "RelativeDocumentMoniker": "Employee Management Application\\EMA.cs",
+              "ToolTip": "C:\\Users\\tuoan\\OneDrive\\M\u00E1y t\u00EDnh\\EMA\\Employee Management Application\\EMA.cs [Design]",
+              "RelativeToolTip": "Employee Management Application\\EMA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T03:17:01.206Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
