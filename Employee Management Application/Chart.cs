@@ -53,7 +53,7 @@ namespace Employee_Management_Application
         {
 
         }
-        public string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\tuoan\OneDrive\Máy tính\EMA\Employee Management Application\Database1.mdf;Integrated Security=True";
+        public string connectionString = @"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=Database1.mdf;Integrated Security=True";
         private DataTable GetChartData()
         {
             // Implement your data retrieval logic here
